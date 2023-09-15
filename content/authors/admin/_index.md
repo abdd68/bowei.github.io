@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Bowei Tian 田博为
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Bowei
+last_name: Tian
 
 # Status emoji
 status:
@@ -14,15 +14,17 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate student of Wuhan University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Wuhan University
+    url: https://www.whu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I’m an undergraduate student from Wuhan University, School of Cyber Science and Engineering. I’m working as a research intern in Prof. Qian Wang’s NIS&P Lab in Wuhan University. I’m also a research intern in Univerity of California, Irvine(UCI) this summer, advised by Prof. Yanning Shen and Dr. Ruijie Du. My undergraduate gpa is 3.9/4.0 (91.3/100). 
+
+My research interests include AI security/adversarial ML(backdoor, data poisoning) and computer vision(vision transformers, interpretability).
 
 # Interests to show in About widget
 interests:
