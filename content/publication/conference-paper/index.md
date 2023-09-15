@@ -10,9 +10,9 @@ authors:
   - Yanning Shen
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 date: '2023-09-14T00:00:00Z'
 doi: ''
