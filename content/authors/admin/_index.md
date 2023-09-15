@@ -26,7 +26,7 @@ bio: I’m an undergraduate student from Wuhan University, School of Cyber Scien
 
 # Interests to show in About widget
 interests:
-  - AI security and privacy
+  - AI Security and Privacy
   - Computer Vision
   - Adversarial ML
 
