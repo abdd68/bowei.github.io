@@ -58,6 +58,7 @@ sections:
   #         icon: camera-retro
   #         icon_pack: fas
   - block: experience
+  id: experience
     content:
       title: Experience
       # Date format for experience
@@ -204,7 +205,8 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: collection
+  - block: Publication
+  id: publication
     content:
       title: Recent Publications
       text: |-
