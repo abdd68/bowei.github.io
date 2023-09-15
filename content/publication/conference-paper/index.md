@@ -18,7 +18,7 @@ date: '2023-09-14T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-04-05T00:00:00Z'
+publishDate: '2023-04-05T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,7 +33,7 @@ publication_short: Submitted to *ICASSP*
 abstract: Vision Transformer (ViT) has achieved excellent performance and demonstrated its promising potential on various computer vision tasks. The wide deployment of ViT in real-world tasks requires a thorough understanding of the societal impact of the model. However, most ViTs do not take fairness into account and existing fairness-aware algorithms designed for CNNs do not perform well on ViT. It is necessary to develop a new fair ViT framework. Moreover, previous works typically sacrifice accuracy for fairness. Therefore, we aim to develop an algorithm that improves fairness without sacrificing accuracy too much. To this end, we introduce a novel distance loss, and deploy adaptive fairness-aware masks on attention layers to improve fairness, which are updated with model parameters. Experimental results show the proposed methods achieve higher accuracy than alternatives, 6.72% higher than the best alternative while reaching a similar fairness result.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: [Vision Transformer, Accuracy, Fairness, Adaptive Masking]
 
@@ -47,12 +47,12 @@ featured: false
 
 url_pdf: ''
 url_code: ''
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
