@@ -1,24 +1,23 @@
 ---
-title: 'FairViT: Fair Vision Transformer via Adaptive Masking'
+title: 'An example conference paper'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Bowei Tian
-  - Ruijie Du
-  - Yanning Shen
+  - admin
+  - Robert Ford
 
 # Author notes (optional)
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
-date: '2023-09-14T00:00:00Z'
+date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-04-05T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,15 +26,15 @@ publishDate: '2024-04-05T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Acoustics, Speech and Signal Processing*
-publication_short: In *ICASSP*
+publication: In *Wowchemy Conference*
+publication_short: In *ICW*
 
-abstract: Vision Transformer (ViT) has achieved excellent performance and demonstrated its promising potential on various computer vision tasks. The wide deployment of ViT in real-world tasks requires a thorough understanding of the societal impact of the model. However, most ViTs do not take fairness into account and existing fairness-aware algorithms designed for CNNs do not perform well on ViT. It is necessary to develop a new fair ViT framework. Moreover, previous works typically sacrifice accuracy for fairness. Therefore, we aim to develop an algorithm that improves fairness without sacrificing accuracy too much. To this end, we introduce a novel distance loss, and deploy adaptive fairness-aware masks on attention layers to improve fairness, which are updated with model parameters. Experimental results show the proposed methods achieve higher accuracy than alternatives, 6.72% higher than the best alternative while reaching a similar fairness result.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Vision Transformer, Accuracy, Fairness, Adaptive Masking]
+tags: []
 
 # Display this page in the Featured widget?
 featured: false
@@ -46,13 +45,13 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
-# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_poster: ''
-# url_project: ''
-# url_slides: ''
-# url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_video: 'https://youtube.com'
+url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
