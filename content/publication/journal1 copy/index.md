@@ -26,7 +26,7 @@ publication_types: ["2"]
 publication: "Submitted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
 publication_short: "Submitted to IMWUT"
 
-abstract: Early screening for dry eye disease (DED) is crucial to identify and provide timely intervention to high-risk susceptible populations. Currently, clinical methods for diagnosing DED include the tear break-up time test, meibomian gland analysis, tear osmolarity test, and tear river height test, which require in-hospital detection. Unfortunately, there is no convenient way to screen for DED yet. In this paper, we propose SDE, a contactless, convenient, and ubiquitous DED screening system based on RF signals. To extract biomarkers for early screening of DED from RF signals,
+abstract: Early screening for dry eye disease (DED) is crucial to identify and provide timely intervention to high-risk susceptible populations. Currently, clinical methods for diagnosing DED include the tear break-up time test, meibomian gland analysis, tear osmolarity test, and tear river height test, which require in-hospital detection. Unfortunately, there is no convenient way to screen for DED yet. In this paper, we propose SDE, a contactless, convenient, and ubiquitous DED screening system based on RF signals. To extract biomarkers for early screening of DED from RF signals, we construct frame chirps variance and extract fine-grained spontaneous blinking action. SDE is carefully designed to remove interference in RF signals and refine the characterization of biomarkers that denote the symptoms of DED. To endow SDE with the ability to adapt to new users,
 
 
 # Summary. An optional shortened abstract.
