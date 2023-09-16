@@ -73,41 +73,6 @@ sections:
       columns: '3'
       view: citation
 
-  # - block: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: CEO
-  #         company: GenCoin
-  #         company_url: ''
-  #         company_logo: org-gc
-  #         location: California
-  #         date_start: '2021-01-01'
-  #         date_end: ''
-  #         description: |2-
-  #             Responsibilities include:
-
-  #             * Analysing
-  #             * Modelling
-  #             * Deploying
-  #       - title: Professor of Semiconductor Physics
-  #         company: University X
-  #         company_url: ''
-  #         company_logo: org-x
-  #         location: California
-  #         date_start: '2016-01-01'
-  #         date_end: '2020-12-31'
-  #         description: Taught electronic engineering and researched semiconductor physics.
-  #   design:
-  #     columns: '2'
   - block: experience
     id: experience
     content:
@@ -121,32 +86,70 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Intern
-          company: University of California, Irvine
+        - title: CEO
+          company: GenCoin
           company_url: ''
           company_logo: org-gc
           location: California
-          date_start: '2023-06-26'
-          date_end: 'Present'
-          description: Guided by Prof. Yanning Shen and Dr. Ruijie Du in UCI Shen's Lab.
-        - title: Research Intern
-          company: Wuhan University
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
           company_url: ''
-          company_logo: org-gc
-          location: Hubei, China
-          date_start: '2021-09-01'
-          date_end: 'Present'
-          description: Guided by Prof. Qian Wang in NIS&P Lab.
-        - title: Undergraduate
-          company: Wuhan University
-          company_url: ''
-          company_logo: org-gc
-          location: Hubei, China
-          date_start: '2020-09-01'
-          date_end: 'Present'
-          description: Got 3.9 GPA, Rank 10/157.
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
-      columns: '3'
+      columns: '2'
+  # - block: experience
+  #   id: experience
+  #   content:
+  #     title: Experience
+  #     # Date format for experience
+  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many `experience` items below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: Research Intern
+  #         company: University of California, Irvine
+  #         company_url: ''
+  #         company_logo: org-gc
+  #         location: California
+  #         date_start: '2023-06-26'
+  #         date_end: 'Present'
+  #         description: Guided by Prof. Yanning Shen and Dr. Ruijie Du in UCI Shen's Lab.
+  #       - title: Research Intern
+  #         company: Wuhan University
+  #         company_url: ''
+  #         company_logo: org-gc
+  #         location: Hubei, China
+  #         date_start: '2021-09-01'
+  #         date_end: 'Present'
+  #         description: Guided by Prof. Qian Wang in NIS&P Lab.
+  #       - title: Undergraduate
+  #         company: Wuhan University
+  #         company_url: ''
+  #         company_logo: org-gc
+  #         location: Hubei, China
+  #         date_start: '2020-09-01'
+  #         date_end: 'Present'
+  #         description: Got 3.9 GPA, Rank 10/157.
+  #   design:
+  #     columns: '3'
+
+  
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
