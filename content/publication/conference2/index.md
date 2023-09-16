@@ -5,14 +5,19 @@ title: 'MEGATRON: Backdooring Vision Transformers with Invisible Triggers'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 
+  - Xueluan Gong
+  - Bowei Tian
+  - Meng Xue
+  - Yanjiao Chen
+  - Qian Wang
+  - Mengyuan Sun
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-# date: '2023-09-14T00:00:00Z'
+date: '2024-01-14T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
