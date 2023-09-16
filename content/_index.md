@@ -89,7 +89,7 @@ sections:
         - title: Research Intern
           company: University of California, Irvine
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-ca
           location: California
           date_start: '2023-06-26'
           date_end: ''
@@ -97,7 +97,7 @@ sections:
         - title: Research Intern
           company: Wuhan University
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-wu
           location: Hubei
           date_start: '2021-09-01'
           date_end: ''
@@ -105,7 +105,7 @@ sections:
         - title: Undergraduate
           company: Wuhan University
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-wu
           location: Hubei
           date_start: '2020-09-01'
           date_end: ''
