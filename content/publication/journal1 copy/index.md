@@ -1,15 +1,15 @@
 ---
-title: "An Effective and Resilient Backdoor Attack Framework against Deep Neural Networks and Vision Transformers"
+title: "SDE: Early Screening for Dry Eye Disease with Wireless Signals"
 authors:
-- Xueluan Gong
-- Bowei Tian
 - Meng Xue
-- Yuan Wu
-- Yanjiao Chen
-- Qian Wang
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Yuyang Zeng
+- Shengkang Gu
+- Qian Zhang
+- Bowei Tian
+- Changzheng Chen
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2023-07-08T00:00:00Z"
 doi: ""
 
@@ -23,15 +23,16 @@ publishDate: "2023-07-08T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: " Submitted to IEEE Transactions on Dependable and Secure Computing"
-publication_short: "Submitted to TDSC"
+publication: " Submitted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
+publication_short: "Submitted to IMWUT"
 
-abstract: Recent studies have revealed the vulnerability of Deep Neural Network (DNN) models to backdoor attacks. However, existing backdoor attacks arbitrarily set the trigger mask or use a randomly selected trigger which restricts the effectiveness and robustness of the generated backdoor triggers. In this paper, we propose a novel attention-based mask generation methodology that searches for the optimal trigger shape and location. To make the backdoored samples more natural, we introduce a Quality-of-Experience (QoE) term into the loss function and carefully adjust the transparency value of the trigger. To further improve the prediction accuracy of the victim model, we proposed an alternating retraining algorithm in the backdoor injection process. Besides, we launch the backdoor attack under a co-optimized attack framework that alternately optimizes the backdoor trigger and backdoored model to further improve the attack performance. Apart from DNN model, we also extend our proposed attack method against vision transformers. We evaluate our proposed method with extensive experiments on VGG-Flower, CIFAR-10, GTSRB, CIFAR-100, and ImageNette datasets. It is shown that we can increase the attack success rate by as much as 82% over baselines when the poison ratio is low and achieve a high QoE of the backdoored samples. Our proposed backdoor attack framework also showcases robustness against state-of-the-art backdoor defenses.
+abstract: Early screening for dry eye disease (DED) is crucial to identify and provide timely intervention to high-risk susceptible populations. Currently, clinical methods for diagnosing DED include the tear break-up time test, meibomian gland analysis, tear osmolarity test, and tear river height test, which require in-hospital detection. Unfortunately, there is no convenient way to screen for DED yet. In this paper, we propose SDE, a contactless, convenient, and ubiquitous DED screening system based on RF signals. To extract biomarkers for early screening of DED from RF signals, we construct frame chirps variance and extract fine-grained spontaneous blinking action.
+SDE is carefully designed to remove interference in RF signals and refine the characterization of biomarkers that denote the symptoms of DED. To endow SDE with the ability to adapt to new users, we develop a deep learning-based model of unsupervised domain adaptation to remove the influence of different users and environments in local and global two-level feature spaces. We conduct extensive experiments to evaluate SDE with 54 volunteers in 4 scenes. The experimental results confirm that SDE can accurately screen for DED in a new user in real environments such as eye examination rooms, clinics, offices, and homes.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Backdoor attacks, Quality-of-Experience (QoE), attention mechanism, co-optimization framework.]
+tags: [Mobile Computing, Pervasive and Ubiquitous Computing.]
 featured: false
 
 # links:

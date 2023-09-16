@@ -32,7 +32,7 @@ SDE is carefully designed to remove interference in RF signals and refine the ch
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Mobile Computing ; Pervasive and Ubiquitous Computing]
+tags: [Mobile Computing, Pervasive and Ubiquitous Computing.]
 featured: false
 
 # links:
