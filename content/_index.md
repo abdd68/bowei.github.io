@@ -98,7 +98,7 @@ sections:
           company: Wuhan University
           company_url: ''
           company_logo: org-WH
-          location: Hubei, China
+          location: Hubei
           date_start: '2021-09-01'
           date_end: 'Present'
           description: Guided by Prof. Qian Wang in NIS&P Lab.
