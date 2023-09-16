@@ -111,7 +111,7 @@ sections:
           date_end: ''
           description: Got 3.9 GPA, Rank 10/157.
     design:
-      columns: '3'
+      columns: '2'
   # - block: experience
   #   id: experience
   #   content:
