@@ -94,14 +94,14 @@ sections:
           date_start: '2023-06-26'
           date_end: ''
           description: Guided by Prof. Yanning Shen and Dr. Ruijie Du in UCI Shen's Lab.
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Research Intern
+          company: Wuhan University
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: org-gc
+          location: Hubei, China
+          date_start: '2021-09-01'
+          date_end: 'Present'
+          description: Guided by Prof. Qian Wang in NIS&P Lab.
     design:
       columns: '2'
   # - block: experience
@@ -126,13 +126,13 @@ sections:
   #         date_end: 'Present'
   #         description: Guided by Prof. Yanning Shen and Dr. Ruijie Du in UCI Shen's Lab.
   #       - title: Research Intern
-  #         company: Wuhan University
-  #         company_url: ''
-  #         company_logo: org-gc
-  #         location: Hubei, China
-  #         date_start: '2021-09-01'
-  #         date_end: 'Present'
-  #         description: Guided by Prof. Qian Wang in NIS&P Lab.
+          # company: Wuhan University
+          # company_url: ''
+          # company_logo: org-gc
+          # location: Hubei, China
+          # date_start: '2021-09-01'
+          # date_end: 'Present'
+          # description: Guided by Prof. Qian Wang in NIS&P Lab.
   #       - title: Undergraduate
   #         company: Wuhan University
   #         company_url: ''
