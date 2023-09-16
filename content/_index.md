@@ -102,8 +102,16 @@ sections:
           date_start: '2021-09-01'
           date_end: ''
           description: Guided by Prof. Qian Wang in NIS&P Lab.
+        - title: Undergraduate
+          company: Wuhan University
+          company_url: ''
+          company_logo: org-gc
+          location: Hubei
+          date_start: '2020-09-01'
+          date_end: ''
+          description: Got 3.9 GPA, Rank 10/157.
     design:
-      columns: '2'
+      columns: '3'
   # - block: experience
   #   id: experience
   #   content:
