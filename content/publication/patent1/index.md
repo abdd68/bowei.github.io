@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: 'uploads/PCN1222543-KS-certificate.pdf'
+url_pdf: ''
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
