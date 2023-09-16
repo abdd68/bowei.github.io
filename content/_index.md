@@ -70,7 +70,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '3'
+      columns: '2'
       view: citation
 
   - block: experience
