@@ -1,26 +1,26 @@
 ---
 title: "Adversarial sample defense methods and devices based on model inversion methods 基于模型反演方法的对抗样本防御方法和设备"
 authors:
-- Meng Xue
-- Yuyang Zeng
-- Shengkang Gu
-- Qian Zhang
-- Bowei Tian
-- Changzheng Chen
+- 田博为
+- 曹雨欣
+- 王骞
+- 龚雪鸾
+- 沈超
+- 李琦
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2023-07-08T00:00:00Z"
+date: "2023-01-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-07-08T00:00:00Z"
+publishDate: "2023-06-30T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Submitted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
