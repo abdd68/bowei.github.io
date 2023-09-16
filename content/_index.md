@@ -73,37 +73,6 @@ sections:
       columns: '3'
       view: citation
 
-  # - block: experience
-  #   id: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: Research Intern
-  #         company: University of California, Irvine
-  #         company_url: ''
-  #         company_logo: org-gc
-  #         location: California
-  #         date_start: '2023-06-26'
-  #         date_end: ''
-  #         description: Guided by Prof. Yanning Shen and Dr. Ruijie Du in UCI Shen's Lab.
-  #       - title: Research Intern
-  #         company: Wuhan University
-  #         company_url: ''
-  #         company_logo: org-gc
-  #         location: Hubei
-  #         date_start: '2021-09-01'
-  #         date_end: ''
-  #         description: Guided by Prof. Qian Wang in NIS&P Lab.
-  #   design:
-  #     columns: '2'
   - block: experience
     id: experience
     content:
@@ -123,26 +92,57 @@ sections:
           company_logo: org-gc
           location: California
           date_start: '2023-06-26'
-          date_end: 'Present'
+          date_end: ''
           description: Guided by Prof. Yanning Shen and Dr. Ruijie Du in UCI Shen's Lab.
         - title: Research Intern
           company: Wuhan University
           company_url: ''
           company_logo: org-gc
-          location: Hubei, China
+          location: Hubei
           date_start: '2021-09-01'
           date_end: ''
           description: Guided by Prof. Qian Wang in NIS&P Lab.
-        - title: Undergraduate
-          company: Wuhan University
-          company_url: ''
-          company_logo: org-gc
-          location: Hubei, China
-          date_start: '2020-09-01'
-          date_end: ''
-          description: Got 3.9 GPA, Rank 10/157.
     design:
-      columns: '3'
+      columns: '2'
+  # - block: experience
+  #   id: experience
+  #   content:
+  #     title: Experience
+  #     # Date format for experience
+  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many `experience` items below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: Research Intern
+  #         company: University of California, Irvine
+  #         company_url: ''
+  #         company_logo: org-gc
+  #         location: California
+  #         date_start: '2023-06-26'
+  #         date_end: 'Present'
+  #         description: Guided by Prof. Yanning Shen and Dr. Ruijie Du in UCI Shen's Lab.
+  #       - title: Research Intern
+  #         company: Wuhan University
+  #         company_url: ''
+  #         company_logo: org-gc
+  #         location: Hubei, China
+  #         date_start: '2021-09-01'
+  #         date_end: ''
+  #         description: Guided by Prof. Qian Wang in NIS&P Lab.
+  #       - title: Undergraduate
+  #         company: Wuhan University
+  #         company_url: ''
+  #         company_logo: org-gc
+  #         location: Hubei, China
+  #         date_start: '2020-09-01'
+  #         date_end: ''
+  #         description: Got 3.9 GPA, Rank 10/157.
+  #   design:
+  #     columns: '3'
 
 
   # - block: accomplishments
