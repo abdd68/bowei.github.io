@@ -1,15 +1,15 @@
 ---
-title: "An Effective and Resilient Backdoor Attack Framework against Deep Neural Networks and Vision Transformers"
+title: "SDE: Early Screening for Dry Eye Disease with Wireless Signals"
 authors:
-- Xueluan Gong
-- Bowei Tian
 - Meng Xue
-- Yuan Wu
-- Yanjiao Chen
-- Qian Wang
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Yuyang Zeng
+- Shengkang Gu
+- Qian Zhang
+- Bowei Tian
+- Changzheng Chen
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2023-07-08T00:00:00Z"
 doi: ""
 
