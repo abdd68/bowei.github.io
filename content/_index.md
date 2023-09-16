@@ -291,7 +291,7 @@ sections:
       phone: +86 13677130812
       # appointment_url: 'https://calendly.com'
       address:
-        street: 299 Bayi Road
+        street: Wuhan University
         city: Wuhan
         region: Hubei
         postcode: '430000'
