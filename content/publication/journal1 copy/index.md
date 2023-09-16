@@ -32,7 +32,7 @@ abstract: Early screening for dry eye disease (DED) is crucial to identify and p
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Backdoor attacks, Quality-of-Experience (QoE), attention mechanism, co-optimization framework.]
+tags: [Mobile Computing, Pervasive and Ubiquitous Computing.]
 featured: false
 
 # links:
