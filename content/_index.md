@@ -86,19 +86,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Intern
+          company: University of California, Irvine
           company_url: ''
           company_logo: org-gc
           location: California
-          date_start: '2021-01-01'
+          date_start: '2023-06-26'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: Guided by Prof. Yanning Shen and Dr. Ruijie Du in UCI Shen's Lab.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
@@ -149,7 +144,7 @@ sections:
   #   design:
   #     columns: '3'
 
-  
+
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
