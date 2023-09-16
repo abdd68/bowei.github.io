@@ -145,8 +145,8 @@ sections:
           date_start: '2020-09-01'
           date_end: 'Present'
           description: Got 3.9 GPA, Rank 10/157.
-  #   design:
-  #     columns: '2'
+    design:
+      columns: '3'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
