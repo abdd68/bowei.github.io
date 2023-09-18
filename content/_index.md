@@ -287,7 +287,7 @@ sections:
       subtitle:
       # text: 
       # Contact (add or remove contact options as necessary)
-      email: boweitian@whu.edu.cn
+      email: boweitian@outlook.com
       phone: +86 13677130812
       # appointment_url: 'https://calendly.com'
       address:
