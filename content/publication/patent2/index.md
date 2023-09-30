@@ -1,8 +1,8 @@
 ---
-title: "Adversarial sample defense methods and devices based on model inversion methods 基于模型反演方法的对抗样本防御方法和设备"
+title: "A Deep Neural Network Model Inversion attack defense method and device 一种深度神经网络模型反演攻击防御方法及设备"
 authors:
-- 田博为
 - 曹雨欣
+- 田博为
 - 王骞
 - 龚雪鸾
 - 沈超
@@ -10,11 +10,11 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2023-01-17T00:00:00Z"
+date: "2023-01-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-06-30T00:00:00Z"
+publishDate: "2023-04-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,25 +26,25 @@ publication_types: ["8"]
 publication: "CHN Invention Patent"
 publication_short: "Patent"
 
-abstract: An adversarial example defense method and device based on a model inversion method are disclosed. In order to solve the problem of lacking a low-cost and efficient adversarial example defense method in the field of deep neural network security, a model inversion mechanism based on a StyleGAN generator is proposed to realize an adversarial example defense method. Through the in-depth analysis of the generator StyleGAN, this paper proposes enhanced information training and improved proAdaIN, which is innovativly applied to the feature generation scheme of the adversarial example defense system. By adding noise, feature decoupling, and using conflict semantics to distinguish real samples from adversarial samples, this paper proposes a novel feature generation scheme for the adversarial example defense system. It solves the problems of high cost, low efficiency and poor defense effect in traditional defense schemes.  本发明公开的基于模型反演方法的对抗样本防御方法和设备，为了解决深度神经网络安全领域中缺少低成本、高效的对抗样本防御方法的问题，提出了一种基于StyleGAN生成器的模型反演机制实现对抗样本防御方法。通过对生成器StyleGAN的深入分析，提出强化信息训练和改进的proAdaIN，将其创新性地应用到对抗样本防御系统的特征生成方案中，并通过添加噪声、特征解耦、利用冲突语义区分真实样本和对抗样本，解决了传统防御方案中成本高、效率低、防御效果差等问题。
+abstract: The invention relates to a deep neural network model inversion attack defense method and equipment, and proposes a model inversion attack defense method based on generative adversarial network and fake samples. First, the generative adversarial network is used to generate false samples, and according to the false samples to ensure the effectiveness of the target victim model, the parameters of the target victim model are finetuned to realize the purpose of defending model inversion attack. The invention can effectively combat model inversion attacks, protect data privacy, and ensure the high availability of the model. 本发明涉及一种深度神经网络模型反演攻击防御方法及设备，提出了一种基于生成对抗网络和假样本的模型反演攻击防御方法，先利用生成对抗网络生成虚假样本，在根据虚假样本在保证目标受害者模型的有效性的基础上，微调目标受害者模型参数，从而实现防御模型反演攻击的目的。本发明可以有效地对抗模型反演攻击，保护数据隐私性，同时确保模型的高可用性。
 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Model Inversion.]
+tags: [Model Inversion, Adversarial Network, Fake Samples]
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'uploads/PCN1222543-KS-certificate.pdf'
+url_pdf: 'uploads/PCN1222518-PG433-KS-certificate.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
 url_project: 'https://cpquery.cponline.cnipa.gov.cn/chinesepatent/index'
 # url_slides: ''
-url_source: 'uploads/CN202310059601_FullTextImage.pdf'
+url_source: 'uploads/CN202310030791_FullTextImage.pdf'
 # url_video: ''
 
 # Featured image
