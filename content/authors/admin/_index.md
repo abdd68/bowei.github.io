@@ -22,7 +22,9 @@ organizations:
     url: https://www.whu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m an undergraduate student from Wuhan University, School of Cyber Science and Engineering. I’m working as a research intern in Prof. Qian Wang’s [NIS&P lab](http://nisplab.whu.edu.cn/) in Wuhan University. I’m also a research intern in [Univerity of California, Irvine (UCI)](https://uci.edu/) this summer, advised by Prof. Yanning Shen and Dr. Ruijie Du. Now I'm doing an internship with Prof. Chuang Gan and Mr. Jiaben Chen at [University of Massachusetts Amherst (UMass)](https://www.umass.edu/). My undergraduate gpa is 3.9/4.0 (91.3/100).
+bio: I’m an undergraduate student from Wuhan University, School of Cyber Science and Engineering. I’m working as a research intern in Prof. Qian Wang’s [NIS&P lab](http://nisplab.whu.edu.cn/) in Wuhan University. I’m also a research intern in [Univerity of California, Irvine (UCI)](https://uci.edu/) this summer, advised by Prof. Yanning Shen and Dr. Ruijie Du. My undergraduate gpa is 3.9/4.0 (91.3/100).
+
+# Now I'm doing an internship with Prof. Chuang Gan and Mr. Jiaben Chen at [University of Massachusetts Amherst (UMass)](https://www.umass.edu/).
 
 # Interests to show in About widget
 interests:
@@ -74,7 +76,8 @@ email: 'boweitian@outlook.com'
 highlight_name: true
 ---
 
-I’m an undergraduate student from Wuhan University, School of Cyber Science and Engineering. I’m working as a research intern in Prof. Qian Wang’s [NIS&P lab](http://nisplab.whu.edu.cn/) in Wuhan University. I’m also a research intern in [Univerity of California, Irvine (UCI)](https://uci.edu/) this summer, advised by Prof. Yanning Shen and Dr. Ruijie Du. Now I'm doing an internship with Prof. Chuang Gan and Mr. Jiaben Chen at [University of Massachusetts Amherst (UMass)](https://www.umass.edu/). My undergraduate gpa is 3.9/4.0 (91.3/100).
+I’m an undergraduate student from Wuhan University, School of Cyber Science and Engineering. I’m working as a research intern in Prof. Qian Wang’s [NIS&P lab](http://nisplab.whu.edu.cn/) in Wuhan University. I’m also a research intern in [Univerity of California, Irvine (UCI)](https://uci.edu/) this summer, advised by Prof. Yanning Shen and Dr. Ruijie Du. My undergraduate gpa is 3.9/4.0 (91.3/100). 
 
 My research interests include AI security, privacy/adversarial ML (backdoor, data poisoning) and computer vision (vision transformers, interpretability). And my resumè is attached [here](uploads/resume.pdf).
 {style="text-align: justify;"}
+<!-- Now I'm doing an internship with Prof. Chuang Gan and Mr. Jiaben Chen at [University of Massachusetts Amherst (UMass)](https://www.umass.edu/).  -->
