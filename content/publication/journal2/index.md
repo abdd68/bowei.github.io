@@ -24,7 +24,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Submitted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
-publication_short: "Submitted to Ubicomp/IMWUT"
+publication_short: "In Ubicomp/IMWUT"
 
 abstract: Early screening for dry eye disease (DED) is crucial to identify and provide timely intervention to high-risk susceptible populations. Currently, clinical methods for diagnosing DED include the tear break-up time test, meibomian gland analysis, tear osmolarity test, and tear river height test, which require in-hospital detection. Unfortunately, there is no convenient way to screen for DED yet. In this paper, we propose SDE, a contactless, convenient, and ubiquitous DED screening system based on RF signals. To extract biomarkers for early screening of DED from RF signals, we construct frame chirps variance and extract fine-grained spontaneous blinking action. SDE is carefully designed to remove interference in RF signals and refine the characterization of biomarkers that denote the symptoms of DED. To endow SDE with the ability to adapt to new users, we develop a deep learning-based model of unsupervised domain adaptation to remove the influence of different users and environments in local and global two-level feature spaces. We conduct extensive experiments to evaluate SDE with 54 volunteers in 4 scenes. The experimental results confirm that SDE can accurately screen for DED in a new user in real environments such as eye examination rooms, clinics, offices, and homes.
 
@@ -38,14 +38,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 'uploads/imwut23b-sub1091-i52.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
 # url_source: ''
-# url_video: ''
+url_video: 'uploads/imwut23b-sub1091-i37.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
