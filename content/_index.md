@@ -283,8 +283,8 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
-      subtitle:
+      # title: Contact
+      # subtitle:
       # text: 
       # Contact (add or remove contact options as necessary)
       email: boweitian@outlook.com
