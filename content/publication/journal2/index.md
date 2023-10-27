@@ -7,9 +7,9 @@ authors:
 - Qian Zhang
 - Bowei Tian
 - Changzheng Chen
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2023-05-08T00:00:00Z"
 doi: ""
 
