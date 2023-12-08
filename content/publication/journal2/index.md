@@ -11,7 +11,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2023-05-08T00:00:00Z"
-doi: "https://doi.org/10.1145/3631438"
+# doi: "https://doi.org/10.1145/3631438"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-05-08T00:00:00Z"
