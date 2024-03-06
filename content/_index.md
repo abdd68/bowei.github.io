@@ -109,7 +109,7 @@ sections:
           location: Hubei
           date_start: '2020-09-01'
           date_end: ''
-          description: Got 3.9 GPA, Rank 10/167. [*Transcript](uploads/transcript.pdf)
+          description: Got 3.9 GPA, Rank 10/167.
     design:
       columns: '2'
   # - block: experience
