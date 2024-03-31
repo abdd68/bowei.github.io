@@ -80,6 +80,6 @@ highlight_name: true
 I’m an undergraduate student from Wuhan University, School of Cyber Science and Engineering. I’m working as a research intern in Prof. Qian Wang’s [NIS&P lab](http://nisplab.whu.edu.cn/) in Wuhan University. I’m also a research intern in [Univerity of California, Irvine (UCI)](https://uci.edu/) this summer, advised by Prof. Yanning Shen and Dr. Ruijie Du. 
 <!-- My undergraduate gpa is 3.9/4.0 (91.3/100).  -->
 
-My research interests include AI security, privacy/adversarial ML (backdoor, data poisoning) and computer vision (vision transformers, interpretability). 
+My research interests include AI security, privacy/adversarial ML (backdoor, data poisoning) and computer vision (vision transformers, interpretability), and the unknown. 
 {style="text-align: justify;"}
 <!-- Now I'm doing an internship with Prof. Chuang Gan and Mr. Jiaben Chen at [University of Massachusetts Amherst (UMass)](https://www.umass.edu/). And my resumé is attached [here](uploads/resume.pdf).  -->
