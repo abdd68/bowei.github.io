@@ -27,8 +27,8 @@ publishDate: '2023-04-05T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *European Conference on Computer Vision (ECCV)*
-publication_short: In *ECCV*
+publication: In *European Conference on Computer Vision (ECCV 2024)*
+publication_short: In European Conference on Computer Vision (ECCV 2024).
 
 abstract: Vision Transformer (ViT) has achieved excellent performance and demonstrated its promising potential on various computer vision tasks. The wide deployment of ViT in real-world tasks requires a thorough understanding of the societal impact of the model. However, most ViTs do not take fairness into account and existing fairness-aware algorithms designed for CNNs do not perform well on ViT. It is necessary to develop a new fair ViT framework. Moreover, previous works typically sacrifice accuracy for fairness. Therefore, we aim to develop an algorithm that improves fairness without sacrificing accuracy too much. To this end, we introduce a novel distance loss, and deploy adaptive fairness-aware masks on attention layers to improve fairness, which are updated with model parameters. Experimental results show the proposed methods achieve higher accuracy than alternatives, 6.72% higher than the best alternative while reaching a similar fairness result.
 
@@ -45,8 +45,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: 'uploads/icassp.pdf'
-# url_code: ''
+url_pdf: 'https://arxiv.org/abs/2407.14799'
+url_code: 'https://github.com/abdd68/Fair-Vision-Transformer'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''
