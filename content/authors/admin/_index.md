@@ -14,15 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate student of Wuhan University
+role: Incoming Ph.D. student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Wuhan University
-    url: https://www.whu.edu.cn/
+  - name: University of Maryland, College Park
+    url: https://umd.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m an undergraduate student from Wuhan University, School of Cyber Science and Engineering. I’m working as a research intern in Prof. Qian Wang’s [NIS&P lab](http://nisplab.whu.edu.cn/) in Wuhan University. I’m also a research intern in [Univerity of California, Irvine (UCI)](https://uci.edu/) this summer, advised by Prof. Yanning Shen and Dr. Ruijie Du. 
+bio: I am an incoming Ph.D student this fall in the University of Maryland, College Park (UMD). I received my bachelor's degree from Wuhan University, School of Cyber Science and Engineering. I’m working as a research intern in Prof. Qian Wang’s [NIS&P lab](http://nisplab.whu.edu.cn/) in Wuhan University. I’m also a research intern in [Univerity of California, Irvine (UCI)](https://uci.edu/) this summer, advised by Prof. Yanning Shen and Dr. Ruijie Du.
 # My undergraduate gpa is 3.9/4.0 (91.3/100).
 
 # Now I'm doing an internship with Prof. Chuang Gan and Mr. Jiaben Chen at [University of Massachusetts Amherst (UMass)](https://www.umass.edu/).
