@@ -287,16 +287,16 @@ sections:
       subtitle:
       # text: 
       # Contact (add or remove contact options as necessary)
-      email: boweitian@outlook.com
+      email: btian1@umd.edu
       phone: +86 13677130812
       # appointment_url: 'https://calendly.com'
       address:
-        street: Wuhan University
-        city: Wuhan
-        region: Hubei
-        postcode: '430000'
-        country: China
-        country_code: 86
+        street: 1000 Hilltop Cir
+        city: College Park
+        region: Maryland (MD)
+        postcode: '20742'
+        country: USA
+        country_code: 1
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
