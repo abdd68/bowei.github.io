@@ -11,7 +11,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2024-01-08T00:00:00Z"
-doi: "https://dl.acm.org/doi/abs/10.1145/3631438"
+# doi: "https://dl.acm.org/doi/abs/10.1145/3631438"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-08T00:00:00Z"
