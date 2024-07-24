@@ -10,11 +10,11 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2023-05-08T00:00:00Z"
-# doi: "https://doi.org/10.1145/3631438"
+date: "2024-01-08T00:00:00Z"
+doi: "https://dl.acm.org/doi/abs/10.1145/3631438"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-05-08T00:00:00Z"
+publishDate: "2024-01-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,8 +23,8 @@ publishDate: "2023-05-08T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
-publication_short: "In Ubicomp/IMWUT"
+publication: "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies （IMWUT)"
+publication_short: "In The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)"
 
 abstract: Early screening for dry eye disease (DED) is crucial to identify and provide timely intervention to high-risk susceptible populations. Currently, clinical methods for diagnosing DED include the tear break-up time test, meibomian gland analysis, tear osmolarity test, and tear river height test, which require in-hospital detection. Unfortunately, there is no convenient way to screen for DED yet. In this paper, we propose SDE, a contactless, convenient, and ubiquitous DED screening system based on RF signals. To extract biomarkers for early screening of DED from RF signals, we construct frame chirps variance and extract fine-grained spontaneous blinking action. SDE is carefully designed to remove interference in RF signals and refine the characterization of biomarkers that denote the symptoms of DED. To endow SDE with the ability to adapt to new users, we develop a deep learning-based model of unsupervised domain adaptation to remove the influence of different users and environments in local and global two-level feature spaces. We conduct extensive experiments to evaluate SDE with 54 volunteers in 4 scenes. The experimental results confirm that SDE can accurately screen for DED in a new user in real environments such as eye examination rooms, clinics, offices, and homes.
 
@@ -37,8 +37,8 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: 'uploads/imwut.pdf'
+#   url: ""uploads/imwut.pdf
+url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3631438'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
