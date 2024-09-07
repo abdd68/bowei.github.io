@@ -44,20 +44,14 @@ sections:
 
   - block: features
     content:
-      title: Something Interesting
+      title: Follow Me on Zhihu
       items:
-        - name: Fun Fact
-          description: Did you know? AI systems can sometimes develop biases that are unexpected due to the data they are trained on.
-          icon: lightbulb
-          icon_pack: fas
-        - name: Vision Transformers
-          description: Vision transformers are a new method in computer vision that breaks away from traditional convolutional approaches.
-          icon: eye
-          icon_pack: fas
-        - name: Backdoor Attacks
-          description: A backdoor attack can secretly change a machine learning model's behavior by poisoning its training data.
-          icon: bug
-          icon_pack: fas
+        - name: Zhihu
+          description: Follow me on Zhihu for more interesting discussions and research insights!
+          icon: zhihu
+          icon_pack: fab
+          url: https://www.zhihu.com/people/123-39-98-41-36  # 将your-zhihu-id替换为你的知乎用户ID
+          image: uploads/OID.jpg  # 替换为你的图片路径
 
 
   - block: collection
