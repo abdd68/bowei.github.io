@@ -42,7 +42,11 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
+## Follow Me on Zhihu
 
+[![Follow Me on Zhihu](/uploads/OID.jpg)](https://www.zhihu.com/people/123-39-98-41-36)
+
+Follow me on Zhihu for more interesting discussions and research insights!
 
   - block: collection
     id: featured

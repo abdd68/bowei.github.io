@@ -23,10 +23,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an incoming Ph.D. student this fall in the University of Maryland, College Park (UMD). I received my bachelor's degree from Wuhan University, School of Cyber Science and Engineering. I’m working as a research intern in Prof. Qian Wang’s [NIS&P lab](http://nisplab.whu.edu.cn/) in Wuhan University. I’m also a research intern in [Univerity of California, Irvine (UCI)](https://uci.edu/) this summer, advised by Prof. Yanning Shen and Dr. Ruijie Du. ## Follow Me on Zhihu
-
-[![Follow Me on Zhihu](/uploads/OIP.jpg)](https://www.zhihu.com/people/123-39-98-41-36)
-
-Follow me on Zhihu for more interesting discussions and research insights!
 # My undergraduate gpa is 3.9/4.0 (91.3/100).
 
 # Now I'm doing an internship with Prof. Chuang Gan and Mr. Jiaben Chen at [University of Massachusetts Amherst (UMass)](https://www.umass.edu/).
