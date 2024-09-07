@@ -50,8 +50,9 @@ sections:
           description: Follow me on Zhihu for more interesting discussions and research insights!
           icon: zhihu
           icon_pack: fab
-          url: https://www.zhihu.com/people/123-39-98-41-36  # 将your-zhihu-id替换为你的知乎用户ID
+          url: https://www.zhihu.com/people/123-39-98-41-36  # 替换为你的知乎ID
           image: uploads/OID.jpg  # 替换为你的图片路径
+          layout: image  # 使用图片布局
 
 
   - block: collection
