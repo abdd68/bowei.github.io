@@ -42,15 +42,14 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: features
+  - block: custom
     content:
       title: Follow Me on Zhihu
-      items:
-        - name: Zhihu
-          description: Follow me on Zhihu for more interesting discussions and research insights!
-          url: https://www.zhihu.com/people/123-39-98-41-36  # 替换为你的知乎ID
-          image: uploads/OID.jpg  # 替换为你的图片路径
-
+      html: |
+        <a href="https://www.zhihu.com/people/123-39-98-41-36" target="_blank">
+          <img src="uploads/OID.jpg" alt="Follow Me on Zhihu" style="width: 200px; height: auto;">
+        </a>
+        <p>Follow me on Zhihu for more interesting discussions and research insights!</p>
 
   - block: collection
     id: featured
