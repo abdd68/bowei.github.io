@@ -42,7 +42,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: custom
+  - block: html
     content:
       title: Follow Me on Zhihu
       html: |
@@ -50,6 +50,7 @@ sections:
           <img src="uploads/OID.jpg" alt="Follow Me on Zhihu" style="width: 200px; height: auto;">
         </a>
         <p>Follow me on Zhihu for more interesting discussions and research insights!</p>
+
 
   - block: collection
     id: featured
