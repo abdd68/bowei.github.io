@@ -52,7 +52,7 @@ sections:
           icon: zhihu
           icon_pack: fab
           url: https://www.zhihu.com/people/123-39-98-41-36
-          image: /uploads/OID.jpg  # 确保图片路径正确
+          image: /uploads/OIP.jpg  # 确保图片路径正确
 
   - block: collection
     id: featured
