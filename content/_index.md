@@ -46,11 +46,12 @@ sections:
     id: follow-me
     content:
       title: Follow Me on Zhihu
-      html: |
+      body: |
         <a href="https://www.zhihu.com/people/123-39-98-41-36" target="_blank">
           <img src="/uploads/OIP.jpg" alt="Follow Me on Zhihu" style="width: 200px; height: auto;">
         </a>
         <p>Follow me on Zhihu for more interesting discussions and research insights!</p>
+
 
 
 
