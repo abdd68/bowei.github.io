@@ -41,22 +41,25 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+
   - block: features
     content:
-      title: Skills
+      title: Something Interesting
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Fun Fact
+          description: Did you know? AI systems can sometimes develop biases that are unexpected due to the data they are trained on.
+          icon: lightbulb
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Vision Transformers
+          description: Vision transformers are a new method in computer vision that breaks away from traditional convolutional approaches.
+          icon: eye
           icon_pack: fas
+        - name: Backdoor Attacks
+          description: A backdoor attack can secretly change a machine learning model's behavior by poisoning its training data.
+          icon: bug
+          icon_pack: fas
+
+
   - block: collection
     id: featured
     content:
