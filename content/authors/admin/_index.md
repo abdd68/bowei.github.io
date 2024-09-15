@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Incoming Ph.D. student
+role: Ph.D. student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: https://umd.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an incoming Ph.D. student this fall in the University of Maryland, College Park (UMD). I received my bachelor's degree from Wuhan University, School of Cyber Science and Engineering. I’m working as a research intern in Prof. Qian Wang’s [NIS&P lab](http://nisplab.whu.edu.cn/) in Wuhan University. I’m also a research intern in [Univerity of California, Irvine (UCI)](https://uci.edu/) this summer, advised by Prof. Yanning Shen and Dr. Ruijie Du. ## Follow Me on Zhihu
+bio: I am an Ph.D. student this fall in the University of Maryland, College Park (UMD), advised by [Prof. Ang Li](https://www.ang-li.com/). I received my bachelor's degree from Wuhan University, School of Cyber Science and Engineering. I’m working as a research intern in Prof. Qian Wang’s [NIS&P lab](http://nisplab.whu.edu.cn/) in Wuhan University. I’m also a research intern in [Univerity of California, Irvine (UCI)](https://uci.edu/) this summer, advised by [Prof. Yanning Shen](https://sites.google.com/uci.edu/yanning-shen/) and Dr. Ruijie Du. ## Follow Me on Zhihu
 # My undergraduate gpa is 3.9/4.0 (91.3/100).
 
 # Now I'm doing an internship with Prof. Chuang Gan and Mr. Jiaben Chen at [University of Massachusetts Amherst (UMass)](https://www.umass.edu/).
@@ -77,7 +77,7 @@ email: 'btian1@umd.edu'
 highlight_name: true
 ---
 
-I am an incoming Ph.D. student this fall in the [University of Maryland, College Park (UMD)](https://umd.edu/). I received my bachelor's degree from Wuhan University, School of Cyber Science and Engineering. I’m working as a research intern in Prof. Qian Wang’s [NIS&P lab](http://nisplab.whu.edu.cn/) in [Wuhan University (WHU)](https://www.whu.edu.cn/). I’m also a research intern in [Univerity of California, Irvine (UCI)](https://uci.edu/) this summer, advised by Prof. Yanning Shen and Dr. Ruijie Du.
+I am an Ph.D. student this fall in the University of Maryland, College Park (UMD), advised by [Prof. Ang Li](https://www.ang-li.com/). I received my bachelor's degree from Wuhan University, School of Cyber Science and Engineering. I’m working as a research intern in Prof. Qian Wang’s [NIS&P lab](http://nisplab.whu.edu.cn/) in Wuhan University. I’m also a research intern in [Univerity of California, Irvine (UCI)](https://uci.edu/) this summer, advised by [Prof. Yanning Shen](https://sites.google.com/uci.edu/yanning-shen/) and Dr. Ruijie Du.
 
 My research interests include AI security, privacy/adversarial ML (backdoor, data poisoning) and computer vision (vision transformers, interpretability). 
 {style="text-align: justify;"}
