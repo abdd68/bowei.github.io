@@ -42,11 +42,6 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: html
-    id: follow-me
-    content:
-      title: Follow Me on Zhihu
-
   - block: collection
     id: featured
     content:
@@ -62,6 +57,11 @@ sections:
     design:
       columns: '2'
       view: citation
+
+  - block: html
+    id: follow-me
+    content:
+      title: Follow Me on Zhihu
 
   - block: experience
     id: experience
