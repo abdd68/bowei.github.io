@@ -31,6 +31,7 @@ interests:
   - Fairness and Causal reasoning
   - AI Security and Privacy
   - Computer Vision
+  - Explainability
 
 # Education to show in About widget
 education:
