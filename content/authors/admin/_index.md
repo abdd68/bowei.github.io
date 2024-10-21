@@ -38,7 +38,7 @@ education:
     - course: Ph.D. student
       institution: University of Maryland, College Park
       year: 2024 - now
-    - course: Bachelor of Engineering (B.Eng.)
+    - course: Bachelor of Engineering
       institution: Wuhan University
       year: 2020 - 2024
     - course: Science Major 
