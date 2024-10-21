@@ -35,9 +35,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Ph.D. student
+      institution: University of Maryland, College Park
+      year: 2024-now
     - course: BSc in Cyber Science and Engineering
       institution: Wuhan University
       year: 2020-2024
+    - course: High school with Science major 
+      institution: High school No.1 Middle School Affiliated to CCNU (华中师大一附中)
+      year: 2017-2020
+      
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
