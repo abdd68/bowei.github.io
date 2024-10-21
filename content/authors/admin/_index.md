@@ -41,7 +41,7 @@ education:
     - course: BSc in Cyber Science and Engineering
       institution: Wuhan University
       year: 2020-2024
-    - course: High school with Science major 
+    - course: Science Major 
       institution: High school No.1 Middle School Affiliated to CCNU (华中师大一附中)
       year: 2017-2020
       
