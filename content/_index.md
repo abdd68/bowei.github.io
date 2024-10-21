@@ -72,14 +72,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Ph.D. student
+          company: University of Maryland, College Park
+          company_url: ''
+          company_logo: org-gc
+          location: Maryland
+          date_start: '2024-09-01'
+          date_end: ''
+          description: Advised by Prof. Ang Li in UMD CASE Lab.
         - title: Research Intern
           company: University of California, Irvine
           company_url: ''
           company_logo: org-gc
           location: California
           date_start: '2023-06-26'
-          date_end: ''
-          description: Guided by Prof. Yanning Shen and Dr. Ruijie Du in UCI Shen's Lab.
+          date_end: '2024-07-01'
+          description: Advised by Prof. Yanning Shen and Dr. Ruijie Du in UCI Shen's Lab.
         - title: Research Intern
           company: Wuhan University
           company_url: ''
@@ -87,7 +95,7 @@ sections:
           location: Hubei
           date_start: '2021-09-01'
           date_end: ''
-          description: Guided by Prof. Qian Wang in NIS&P Lab.
+          description: Advised by Prof. Qian Wang, Prof. Yanjiao Chen and Dr. Xueluan Gong in NIS&P Lab.
         # - title: Undergraduate
         #   company: Wuhan University
         #   company_url: ''
