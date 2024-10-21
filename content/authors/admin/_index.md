@@ -37,13 +37,13 @@ education:
   courses:
     - course: Ph.D. student
       institution: University of Maryland, College Park
-      year: 2024-now
+      year: 2024 - now
     - course: Bachelor of Engineering (B.Eng.)
       institution: Wuhan University
-      year: 2020-2024
+      year: 2020 - 2024
     - course: Science Major 
       institution: High school No.1 Middle School Affiliated to CCNU
-      year: 2017-2020
+      year: 2017 - 2020
       
 
 # Social/Academic Networking
