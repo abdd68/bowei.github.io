@@ -69,7 +69,7 @@ social:
      link: https://github.com/abdd68
    - icon: linkedin
      icon_pack: fab
-     link: https://www.linkedin.com/in/博为-田-a0443b317
+     link: www.linkedin.com/in/boweitian
    - icon: zhihu
      icon_pack: fab
      link: https://www.zhihu.com/people/123-39-98-41-36
