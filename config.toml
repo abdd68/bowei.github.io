@@ -1,0 +1,3 @@
+[imaging]
+  resampleFilter = "NearestNeighbor" # 避免破坏 GIF 动画
+  quality = 100                     # 保留原始质量
