@@ -50,7 +50,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2412.04767'
 # url_code: ''
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
