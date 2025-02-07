@@ -1,5 +1,5 @@
 ---
-title: 'Towards counterfactual fairness thorough auxiliary variables'
+title: 'Towards counterfactual fairness through auxiliary variables'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
