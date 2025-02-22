@@ -66,7 +66,7 @@ social:
      link: https://scholar.google.com/citations?user=nSuSoKcAAAAJ&hl=en&oi=ao
    - icon: github
      icon_pack: fab
-     link: https://github.com/abdd68
+     link: https://github.com/boweitian
    - icon: linkedin
      icon_pack: fab
      link: https://www.linkedin.com/in/boweitian
